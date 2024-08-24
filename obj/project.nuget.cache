@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xYZhV2NDMQFNwG5c9lgLcWJLctbQehwlR/m3A1tMhwl5Os8P5KFgA1X7ofH6XkInjmQ4FTzuK+WxI8N9sAMUhg==",
+  "success": true,
+  "projectFilePath": "C:\\shtuki\\examem\\examem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\masta\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
